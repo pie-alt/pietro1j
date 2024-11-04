@@ -1,9 +1,16 @@
 body{
     color: aquamarine;
     background: violet;
-    font-family: "Roboto", sans-serif;}
+    font-family: "Roboto", sans-serif;
     margin-bottom: 100px;
+}
 
+header{
+    border-bottom: solid2px green;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+}
 
 .chamada{
     background: black;
