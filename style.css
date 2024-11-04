@@ -1,0 +1,14 @@
+body{
+    color: aquamarine;
+    background: violet;
+    font-family: "Roboto", sans-serif;}
+    margin-bottom: 100px;
+
+
+.chamada{
+    background: black;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
